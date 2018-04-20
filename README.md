@@ -15,11 +15,11 @@
 
 ## TODO:
 
-[ ] Refactor script
+- [ ] Refactor script
 
-[ ] Metricbeat
+- [ ] Metricbeat
 
-[ ] Exhaustively test the shell script against popular rpm based OSes.
+- [ ] Exhaustively test the shell script against popular rpm based OSes.
 
-[ ] Place elasticsearch behind reverse proxy
+- [ ] Place elasticsearch behind reverse proxy
 
